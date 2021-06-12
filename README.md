@@ -1,2 +1,2 @@
 # task
-Simply a weekly expence calculator where we can input the date and can calculate.
+Simply a weekly expence calculator where we can input the date and can calculate with searching functionality.
